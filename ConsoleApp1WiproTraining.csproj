@@ -44,12 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstract.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="boxingAndUnboxing.cs" />
     <Compile Include="cmdlineargs.cs" />
     <Compile Include="Conditional.cs" />
     <Compile Include="enum.cs" />
+    <Compile Include="ExceptionalHandling.cs" />
     <Compile Include="Forloopcs.cs" />
+    <Compile Include="functionOverloadingcs.cs" />
+    <Compile Include="functionOverriding.cs" />
     <Compile Include="HiereachicalInheritance.cs" />
     <Compile Include="interfaceInheritancecs.cs" />
     <Compile Include="methods_Demo.cs" />
