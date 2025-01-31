@@ -50,6 +50,7 @@
     <Compile Include="Conditional.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="methods_Demo.cs" />
+    <Compile Include="multiLevelInheritance.cs" />
     <Compile Include="namespace1.cs" />
     <Compile Include="namespace2.cs" />
     <Compile Include="namespace3.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="returnMethods.cs" />
+    <Compile Include="SignleLevelInheritance.cs" />
     <Compile Include="string.cs" />
   </ItemGroup>
   <ItemGroup>
