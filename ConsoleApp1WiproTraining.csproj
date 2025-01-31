@@ -48,8 +48,12 @@
     <Compile Include="boxingAndUnboxing.cs" />
     <Compile Include="cmdlineargs.cs" />
     <Compile Include="Conditional.cs" />
+    <Compile Include="enum.cs" />
     <Compile Include="Forloopcs.cs" />
+    <Compile Include="HiereachicalInheritance.cs" />
+    <Compile Include="interfaceInheritancecs.cs" />
     <Compile Include="methods_Demo.cs" />
+    <Compile Include="MultilevelExample.cs" />
     <Compile Include="multiLevelInheritance.cs" />
     <Compile Include="namespace1.cs" />
     <Compile Include="namespace2.cs" />
@@ -57,12 +61,14 @@
     <Compile Include="namespace4.cs" />
     <Compile Include="Namespaces.cs" />
     <Compile Include="NestedNamespace.cs" />
+    <Compile Include="newInterfaceDemo.cs" />
     <Compile Include="NullableValues.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="returnMethods.cs" />
     <Compile Include="SignleLevelInheritance.cs" />
     <Compile Include="string.cs" />
+    <Compile Include="structcs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
