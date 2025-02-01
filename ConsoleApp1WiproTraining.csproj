@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="abstract.cs" />
+    <Compile Include="abstrat2.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="boxingAndUnboxing.cs" />
     <Compile Include="cmdlineargs.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="newInterfaceDemo.cs" />
     <Compile Include="NullableValues.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="returnMethods.cs" />
     <Compile Include="SignleLevelInheritance.cs" />
