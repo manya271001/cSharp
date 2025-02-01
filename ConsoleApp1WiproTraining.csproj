@@ -49,9 +49,18 @@
     <Compile Include="Array.cs" />
     <Compile Include="boxingAndUnboxing.cs" />
     <Compile Include="cmdlineargs.cs" />
+    <Compile Include="CollectionArrayList.cs" />
+    <Compile Include="CollectionGeneric.cs" />
+    <Compile Include="CollectionHashTable.cs" />
+    <Compile Include="CollectionQueue.cs" />
+    <Compile Include="CollectionSortesList.cs" />
+    <Compile Include="CollectionStack.cs" />
     <Compile Include="Conditional.cs" />
+    <Compile Include="Constructor.cs" />
+    <Compile Include="DimondProblemDemo.cs" />
     <Compile Include="enum.cs" />
     <Compile Include="ExceptionalHandling.cs" />
+    <Compile Include="FileHandlingConcept.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="functionOverloadingcs.cs" />
     <Compile Include="functionOverriding.cs" />
@@ -73,6 +82,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="returnMethods.cs" />
     <Compile Include="SignleLevelInheritance.cs" />
+    <Compile Include="staticClass.cs" />
     <Compile Include="string.cs" />
     <Compile Include="structcs.cs" />
   </ItemGroup>
