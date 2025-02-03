@@ -48,6 +48,7 @@
     <Compile Include="abstrat2.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="boxingAndUnboxing.cs" />
+    <Compile Include="BubbleSort.cs" />
     <Compile Include="cmdlineargs.cs" />
     <Compile Include="CollectionArrayList.cs" />
     <Compile Include="CollectionGeneric.cs" />
@@ -71,6 +72,8 @@
     <Compile Include="functionOverloadingcs.cs" />
     <Compile Include="functionOverriding.cs" />
     <Compile Include="HiereachicalInheritance.cs" />
+    <Compile Include="Indexer.cs" />
+    <Compile Include="InsertionSort.cs" />
     <Compile Include="interfaceInheritancecs.cs" />
     <Compile Include="LocalMethod.cs" />
     <Compile Include="methods_Demo.cs" />
@@ -92,6 +95,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RefDemo.cs" />
     <Compile Include="returnMethods.cs" />
+    <Compile Include="Searching.cs" />
+    <Compile Include="SelectionSortcs.cs" />
     <Compile Include="SignleLevelInheritance.cs" />
     <Compile Include="staticClass.cs" />
     <Compile Include="string.cs" />
