@@ -60,6 +60,9 @@
     <Compile Include="DimondProblemDemo.cs" />
     <Compile Include="enum.cs" />
     <Compile Include="ExceptionalHandling.cs" />
+    <Compile Include="exceptiona_demo.cs" />
+    <Compile Include="exceptionDemo2.cs" />
+    <Compile Include="exceptionDemo3.cs" />
     <Compile Include="FileHandlingConcept.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="functionOverloadingcs.cs" />
