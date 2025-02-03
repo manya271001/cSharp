@@ -58,17 +58,21 @@
     <Compile Include="Conditional.cs" />
     <Compile Include="Constructor.cs" />
     <Compile Include="DimondProblemDemo.cs" />
+    <Compile Include="Discard.cs" />
     <Compile Include="enum.cs" />
     <Compile Include="ExceptionalHandling.cs" />
     <Compile Include="exceptiona_demo.cs" />
     <Compile Include="exceptionDemo2.cs" />
     <Compile Include="exceptionDemo3.cs" />
+    <Compile Include="Expression_Bodied.cs" />
+    <Compile Include="extensionMethod.cs" />
     <Compile Include="FileHandlingConcept.cs" />
     <Compile Include="Forloopcs.cs" />
     <Compile Include="functionOverloadingcs.cs" />
     <Compile Include="functionOverriding.cs" />
     <Compile Include="HiereachicalInheritance.cs" />
     <Compile Include="interfaceInheritancecs.cs" />
+    <Compile Include="LocalMethod.cs" />
     <Compile Include="methods_Demo.cs" />
     <Compile Include="MultilevelExample.cs" />
     <Compile Include="multiLevelInheritance.cs" />
@@ -80,14 +84,19 @@
     <Compile Include="NestedNamespace.cs" />
     <Compile Include="newInterfaceDemo.cs" />
     <Compile Include="NullableValues.cs" />
+    <Compile Include="OutDemo2.cs" />
+    <Compile Include="outVariable.cs" />
+    <Compile Include="patternMatching.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RefDemo.cs" />
     <Compile Include="returnMethods.cs" />
     <Compile Include="SignleLevelInheritance.cs" />
     <Compile Include="staticClass.cs" />
     <Compile Include="string.cs" />
     <Compile Include="structcs.cs" />
+    <Compile Include="Tuples.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
