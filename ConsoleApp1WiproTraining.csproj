@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="abstract.cs" />
     <Compile Include="abstrat2.cs" />
+    <Compile Include="AnonymusFunctions.cs" />
     <Compile Include="Array.cs" />
     <Compile Include="boxingAndUnboxing.cs" />
     <Compile Include="BubbleSort.cs" />
@@ -58,6 +59,9 @@
     <Compile Include="CollectionStack.cs" />
     <Compile Include="Conditional.cs" />
     <Compile Include="Constructor.cs" />
+    <Compile Include="DelegateDemo2.cs" />
+    <Compile Include="delegates_demo.cs" />
+    <Compile Include="Delegate_Demo2.cs" />
     <Compile Include="DimondProblemDemo.cs" />
     <Compile Include="Discard.cs" />
     <Compile Include="enum.cs" />
@@ -69,6 +73,7 @@
     <Compile Include="extensionMethod.cs" />
     <Compile Include="FileHandlingConcept.cs" />
     <Compile Include="Forloopcs.cs" />
+    <Compile Include="FuncDelegate.cs" />
     <Compile Include="functionOverloadingcs.cs" />
     <Compile Include="functionOverriding.cs" />
     <Compile Include="HiereachicalInheritance.cs" />
@@ -90,6 +95,7 @@
     <Compile Include="OutDemo2.cs" />
     <Compile Include="outVariable.cs" />
     <Compile Include="patternMatching.cs" />
+    <Compile Include="Pradicate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="properties.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
